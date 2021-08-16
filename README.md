@@ -1,3 +1,8 @@
+
+[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/surjyo_b)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/surjyob/)
+
+
 ### Hi there 👋
 
 <!--
@@ -7,8 +12,6 @@ Here are some ideas to get you started:
 
 -->
 
-[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/surjyo_b)
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/surjyob/)
 
 
 - 🔭 I’m currently working on a Angular/AngularJS frontend + .NET MVC backend based project to integrate PingIdentity as SSO
