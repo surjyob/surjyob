@@ -13,9 +13,10 @@ Here are some ideas to get you started:
 -->
 
 
-
-- 🔭 I’m currently working on Power Automate / Power Apps project based on Microsoft NoCode/LowCode Power Platform
-- 🌱 I’m currently learning Power Automate/ Power Apps. I am a AWS Certified Solution Architect-Associate and Microsoft Certified Azure Architect.
+- 🔭 I’m currently working as an Integration Architect specializing in Azure Integration Services
+- 🌱I have extensive development experience in AIS components like Function App / Logic App / APIM
+- 🔭 I have worked on Power Automate / Power Apps project based on Microsoft NoCode/LowCode Power Platform
+- 🌱 I am a AWS Certified Solution Architect-Associate and Microsoft Certified Azure Architect.
 - 👯 I’m looking to collaborate on Azure/AWS design & development tasks as well as exposure to Azure/AWS Architecture.
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about BizTalk (I have worked on BizTalk version 2006/2006R2/2009/2010/2016). I have good exposure to .NET/C#/SQL Server as well.
